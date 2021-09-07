@@ -4,6 +4,8 @@
 This repository is my tech notes.
 
 ## markdown
+If you preview in vscode, press ``Ctrl+K``, ``V``.
+
 ### Link
 ```
 [Text](URL)
